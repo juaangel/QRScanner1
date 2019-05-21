@@ -52,3 +52,4 @@ public class MainActivity extends AppCompatActivity {
     }
 
 }
+// FUENTE: https://medium.com/@peeyush.pathak18/qr-code-barcode-scanning-in-android-app-a84d290fffad
